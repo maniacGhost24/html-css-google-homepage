@@ -1,2 +1,11 @@
 # html-css-google-homepage
-Cloned the google homepage using HTML and CSS as a refresher to both of these scripts.
+
+Recreated the google homepage to refresh my understanding of HTML and CSS.
+
+Final Product of the frontend:
+
+![Screenshot showing final output of the code written](image.png)
+
+Also deployed to a live server using netlify.
+
+The link to access the site is: https://maniacghost-google.netlify.app/
